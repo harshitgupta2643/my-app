@@ -1,3 +1,20 @@
+LOGIN PAGE
+
+<img width="960" alt="image" src="https://github.com/harshitgupta2643/my-app/assets/137988531/05188065-7a45-46aa-8f60-9bb255ad3d61">
+
+constraints in Login Page
+<img width="955" alt="image" src="https://github.com/harshitgupta2643/my-app/assets/137988531/ee0a845b-93e3-41f5-a732-0a041b0bad68">
+<img width="957" alt="image" src="https://github.com/harshitgupta2643/my-app/assets/137988531/7c951b62-e420-4237-8fc8-bd73a2d426ff">
+
+Register Page 
+<img width="959" alt="image" src="https://github.com/harshitgupta2643/my-app/assets/137988531/14dca23a-d04d-4bfe-a2ff-aed409b238ff">
+
+TO DO LIST (including LOGOUT BUTTON , Clear Completed tasks, input TASKS, submit button ,ON CLICK Deletion)
+![image](https://github.com/harshitgupta2643/my-app/assets/137988531/f322570b-fcf1-4140-a1d0-dc9b289d6f02)
+ABOVE IS PREVIEW OF REACT TO DO LIST
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
