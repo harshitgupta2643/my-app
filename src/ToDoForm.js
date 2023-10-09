@@ -13,6 +13,7 @@ const ToDoForm = ({ addTask }) => {
         addTask(userInput);
         setUserInput("");
     }
+    
     return (
         <form onSubmit={handleSubmit}>
             <div className="task">
