@@ -75,12 +75,11 @@
 .to-do-list-heading {
   text-align: center;
   margin-top: 20px; 
-  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPbLG4Ck2057zf4GJPAYqtCb8_5ni1m9CIPQ'); 
-  padding: 22px;
-  width: 100px;
+  padding: 10px;
+  width: 200px;
   border-style: solid;
   border-radius: 2px;
-  border-color: black;
+  border-color: white;
   
 }
 
@@ -103,12 +102,12 @@
   align-items: center;
   justify-content: center;
   color: white;
-  background-image: url('https://as1.ftcdn.net/v2/jpg/05/07/34/36/1000_F_507343642_vSd0WhUYE1OXM2rpRWGKYTdk0hdqQAhm.jpg');
+  background-image: url('../public/BG.jpg');
 }
 
 /* Define a class for the background when TodoList is open */
 .todolist-bg {
-  background-image: url('https://plus.unsplash.com/premium_photo-1683749810514-860f96ad0735?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=50');
+  background-image: url('../public/BG.jpg');
   /* Add other background styles as needed */
 }
 
